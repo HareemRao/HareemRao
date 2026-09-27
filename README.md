@@ -8,7 +8,7 @@ BS Computer Science student at COMSATS University Islamabad, Sahiwal Campus , ba
 - 💻 Comfortable with Python, Java, C++, HTML/CSS, and JavaScript
 - 📚 Actively building my foundations in SQL and data structures
 - 🌱 Interested in exploring different areas of CS before specializing
-- 📫 [Add LinkedIn URL here]
+- 📫 https://www.linkedin.com/in/hareem-rao-4b007941b/
 
 ## Currently Learning
 
